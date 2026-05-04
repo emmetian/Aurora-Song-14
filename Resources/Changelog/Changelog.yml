@@ -4903,3 +4903,10 @@ Entries:
   id: 9451
   time: '2026-05-04T21:55:23.0000000+00:00'
   url: https://github.com/AuroraSong14/Aurora-Song-14/pull/952
+- author: FancyPlanks
+  changes:
+    - type: Tweak
+      message: The old brown sofa has been thrown out for a new one!
+  id: 9452
+  time: '2026-05-04T22:18:59.0000000+00:00'
+  url: https://github.com/AuroraSong14/Aurora-Song-14/pull/953
