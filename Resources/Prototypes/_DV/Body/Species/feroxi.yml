@@ -44,8 +44,6 @@
     - HeadSide
     - FacialHair
     - Hair
-  - type: Inventory
-    speciesId: feroxi
 
 - type: entity
   parent:
