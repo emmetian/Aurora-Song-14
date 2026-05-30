@@ -5236,3 +5236,12 @@ Entries:
   id: 9494
   time: '2026-05-18T21:55:23.0000000+00:00'
   url: https://github.com/AuroraSong14/Aurora-Song-14/pull/788
+- author: ZigTag
+  changes:
+    - type: Fix
+      message: vulps have short and tall capabilities now
+    - type: Fix
+      message: vulps have dog vision again
+  id: 9495
+  time: '2026-05-18T21:53:48.0000000+00:00'
+  url: https://github.com/AuroraSong14/Aurora-Song-14/pull/1060
