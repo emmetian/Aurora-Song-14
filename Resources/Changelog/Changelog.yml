@@ -5105,3 +5105,10 @@ Entries:
   id: 9477
   time: '2026-05-26T05:22:54.0000000+00:00'
   url: https://github.com/AuroraSong14/Aurora-Song-14/pull/1030
+- author: Oberonics
+  changes:
+    - type: Fix
+      message: IPCs now move around as intended.
+  id: 9478
+  time: '2026-05-26T04:37:18.0000000+00:00'
+  url: https://github.com/AuroraSong14/Aurora-Song-14/pull/1084
