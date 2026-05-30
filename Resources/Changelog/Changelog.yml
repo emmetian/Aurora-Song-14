@@ -5314,3 +5314,10 @@ Entries:
   id: 9504
   time: '2026-05-15T12:58:41.0000000+00:00'
   url: https://github.com/AuroraSong14/Aurora-Song-14/pull/1044
+- author: assignedgod
+  changes:
+    - type: Tweak
+      message: The faust, halberd, and greatsword can now pry open unpowered doors
+  id: 9505
+  time: '2026-05-15T12:56:03.0000000+00:00'
+  url: https://github.com/AuroraSong14/Aurora-Song-14/pull/1047
