@@ -5245,3 +5245,12 @@ Entries:
   id: 9495
   time: '2026-05-18T21:53:48.0000000+00:00'
   url: https://github.com/AuroraSong14/Aurora-Song-14/pull/1060
+- author: ZigTag
+  changes:
+    - type: Fix
+      message: people can spawn in med pods again
+    - type: Tweak
+      message: med pods now have a 100% chance of spawning a body
+  id: 9496
+  time: '2026-05-18T21:53:27.0000000+00:00'
+  url: https://github.com/AuroraSong14/Aurora-Song-14/pull/1059
