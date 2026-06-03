@@ -5349,3 +5349,10 @@ Entries:
   id: 9509
   time: '2026-06-03T22:35:10.0000000+00:00'
   url: https://github.com/AuroraSong14/Aurora-Song-14/pull/1113
+- author: Phoenix51505
+  changes:
+    - type: Fix
+      message: Interaction Verbs now respect identity
+  id: 9510
+  time: '2026-06-03T22:40:32.0000000+00:00'
+  url: https://github.com/AuroraSong14/Aurora-Song-14/pull/1104
